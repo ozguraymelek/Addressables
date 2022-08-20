@@ -1,2 +1,2 @@
 # Addressables
-how to implement addressables ?
+How to implement addressables ?
