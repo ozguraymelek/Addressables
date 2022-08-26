@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Car Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Car Textures
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 589c0326a32d01f4cb6f8de7b6f80c48
+  m_SerializeEntries:
+  - m_GUID: c5224e028a6b09b4380ba560e15bbd62
+    m_Address: FordRaptor_Base_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecd7cc57722a688428a6f98832c7e870
+    m_Address: FordRaptor_Metallic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd099f528cfb78647852b94ebcf1b205
+    m_Address: FordRaptor_Normal_DirectX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3200356b16cc9e4f8b0f17e51e73fe3
+    m_Address: MazdaRx7_Base_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64a8c65cd35504a408e0ac6e1f469bea
+    m_Address: MazdaRx7_Metallic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b325e2a1f18b3540a1e37993cf41662
+    m_Address: MazdaRx7_Normal_DirectX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36a49e803f36b2d47afe5b02a24d6d2d
+    m_Address: Mustang_Base_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45b7b1bc4ebc7df46abf2ec596fec8ed
+    m_Address: Mustang_Metallic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74633328312d3c240be605909dd9e435
+    m_Address: Mustang_Normal_DirectX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 33c66a4c024abc84594734efb0ca0282, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 99fb618e464ca724c8e6b1404b50095e, type: 2}
+    - {fileID: 11400000, guid: 0c1d963963ac3e94fbeb1c59340b11ac, type: 2}
